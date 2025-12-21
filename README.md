@@ -14,3 +14,4 @@ I use GitHub as my workbench, not as a polished portfolio.
 - Buzzword-driven projects created just for show.
 
 I’ve always been curious about how things work under the hood. Some repositories may look messy, but they all reflect genuine exploration and learning.
+Many repositories exist to answer a specific question, validate an approach or explore a design space. Once that goal is achieved, the work is intentionally left as-is.
