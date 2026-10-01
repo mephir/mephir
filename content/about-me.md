@@ -1,8 +1,8 @@
 # Pawel Wilk
 
-I’m a software engineer and solution architect with 20+ years in tech. I started as a developer, became the first technical hire at Bayzat and helped grow engineering from just me into several development and DevOps teams.
+I’m a software engineer and solution architect with 20+ years in tech. I was part of building Bayzat from its early days, starting as the main technical person and helping grow engineering from essentially one person into several development teams and DevOps team.
 
-Since then I’ve worked across startups, enterprise systems and large-scale platforms, including projects for Careem Now, Emirates NBD and Web3TV. My work has covered backend development, architecture, cloud infrastructure, DevOps, performance, modernization and technical leadership — but I’ve always preferred staying close to the code.
+Since then I’ve worked across startups, enterprise systems and large-scale platforms, including projects for Bayzat, Careem Now, Emirates NBD and Web3TV. My work has covered backend development, architecture, cloud infrastructure, DevOps, performance, modernization and technical leadership — but I’ve always preferred staying close to the code.
 
 I use AI as part of my development workflow when it helps with research, exploration, review or routine work. I treat it as another engineering tool: useful, but something I still need to understand, verify and take responsibility for.
 
