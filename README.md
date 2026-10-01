@@ -2,6 +2,8 @@
 
 I use GitHub as my workbench, not as a polished portfolio.
 
+[About me](content/about-me.md)
+
 **Here you’ll find:**
 - Experiments, prototypes and proof-of-concepts.
 - Deep dives into systems, storage, infrastructure and developer tools.
