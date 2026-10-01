@@ -20,3 +20,4 @@ Many repositories exist to answer a specific question, validate an approach or e
 
 **Looking for more recent GitHub activity? Most of my client work lives on a separate work account: [pawelwprotem](https://github.com/pawelwprotem)**
 <img width="889" height="250" alt="image" src="https://github.com/user-attachments/assets/030db505-c305-4d68-9e79-bbf206663ccd" />
+<img width="888" height="246" alt="image" src="https://github.com/user-attachments/assets/438705c5-a3df-4e83-b38d-61eb18192954" />
